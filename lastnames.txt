@@ -60,6 +60,7 @@ Bayleaf
 Baynes
 Beachbum
 Bean
+Beardy
 Beasley
 Beedee
 Beedeeie
@@ -163,6 +164,7 @@ Cilly
 Cinnamon
 Clark
 Clementine
+Cleobury
 Clinton
 Clopes
 Cloquet
@@ -388,6 +390,7 @@ Hirsch
 Holcomb
 Holstman
 Hoolahan
+Hopton
 Hootananny
 Hornet
 Horton
@@ -781,6 +784,8 @@ Shlitterbahn
 Shoal
 Shock
 Shoemacher
+Shorp
+Shorpshire
 Shrubs
 Sidecar
 Sidequest
