@@ -1,7 +1,9 @@
+Abbotsford, BC
 Aberdeen, TX
 Abilene, TX
 Abilene, TX
 Addison, IL
+Airdrie, AB
 Akron, OH
 Akron, OH
 Alameda, CA
@@ -87,6 +89,7 @@ Baraga, MI
 Barbourville, KY
 Barcelona, ESP
 Barnstable Town, MA
+Barrie, ON
 Barstow, CA
 Bartlett, IL
 Bartlett, TN
@@ -106,12 +109,14 @@ Bedford, TX
 Bell Gardens, CA
 Belleville, IL
 Belleville, ON
+Belleville, ON
 Bellevue, NE
 Bellevue, WA
 Bellflower, CA
 Bellingham, WA
 Belmar, NJ
 Belmont, MS
+Beloeil, QB
 Beloit, WI
 Beloit, WI
 Bemidji, MN
@@ -147,6 +152,7 @@ Boca Raton, FL
 Boise City, ID
 Boise, ID
 Bolingbrook, IL
+Bolton, ON
 Bonita Springs, FL
 Boonville, MO
 Bossier City, LA
@@ -160,11 +166,15 @@ Bowie, MD
 Bowie, MD
 Bowling Green, KY
 Bowling Green, OH
+Bowmanville, ON
 Boynton Beach, FL
 Bozeman, MT
 Bradenton, FL
 Bradenton, FL
+Bradford, ON
 Brainerd, MN
+Brandon, MB
+Brantford, ON
 Brea, CA
 Bremerton, WA
 Brentwood, CA
@@ -205,15 +215,18 @@ Busan, SKO
 Caldwell, ID
 Calexico, CA
 Calgary, AB
+Calgary, AB
 Calumet City, IL
 Calumet, MI
 Camarillo, CA
 Cambridge, MA
 Cambridge, MA
 Camden, NJ
+Campbell River, BC
 Campbell, CA
 Canton, NY
 Canton, OH
+Cape Breton, NS
 Cape Canaveral, FL
 Cape Coral, FL
 Cape Giradeau, MO
@@ -264,7 +277,9 @@ Charlotte, VA
 Charlottesville, SC
 Charlottesville, VA
 Charlottesville, VA
+Charlottetown, PE
 Chassel, MI
+Chatham, ON
 Chattanooga, TN
 Chattanooga, TN
 Chelsea, MA
@@ -278,12 +293,15 @@ Chicago, IL
 Chicago, IL
 Chico, CA
 Chicopee, MA
+Chicoutimi, QB
+Chilliwack, BC
 Chillum, MD
 Chino Hills, CA
 Chino, CA
 Chippewa Falls, WI
 Chula Vista, CA
 Chunichi, JPN
+Châteauguay, QB
 Cicero, IL
 Cincinnati, OH
 Cinncinati, OH
@@ -300,6 +318,7 @@ Climax, MI
 Clovis, CA
 Clovis, NM
 Coachella, CA
+Cochrane, AB
 Coconut Creek, FL
 Coeur d'Alene, ID
 College Park, MD
@@ -333,6 +352,7 @@ Coppell, TX
 Coral Gables, FL
 Coral Springs, FL
 Corinth, MS
+Cornwall, ON
 Corona, CA
 Corpus Christi, TX
 Corpus Christi, TX
@@ -340,6 +360,7 @@ Corvallis, OR
 Corvallis, OR
 Costa Mesa, CA
 Council Bluffs, IA
+Courtenay, BC
 Cove Fort, UT
 Covina, CA
 Covington, KY
@@ -399,6 +420,7 @@ Downey, CA
 Dranesville, VA
 Draper, UT
 Dresden, ON
+Drummondville, QB
 Dublin, CA
 Dublin, OH
 Dubque, IA
@@ -428,6 +450,7 @@ Edinburg, TX
 Edmond, OK
 Edmonds, WA
 Edmonton, AB
+Edmonton, AB
 El Cajon, CA
 El Centro, CA
 El Monte, CA
@@ -437,6 +460,7 @@ Elgin, IL
 Elizabeth, NJ
 Elk Grove, CA
 Elkhart, IN
+Elmhurst Beach, ON
 Elmhurst, IL
 Elyria, OH
 Encinitas, CA
@@ -492,10 +516,12 @@ Fort Knox, KY
 Fort Lauderdale, FL
 Fort Lauderdale, FL
 Fort Macon, NC
+Fort McMurray, AB
 Fort Myers, FL
 Fort Myers, FL
 Fort Pierce, FL
 Fort Pulaski, GA
+Fort SK, AB
 Fort Smith, AR
 Fort Ticonderoga, NY
 Fort Wayne, IN
@@ -509,6 +535,7 @@ Franklin, TN
 Frederick, MD
 Fredericksburg, VA
 Fredericktown, MO
+Fredericton, NB
 Fredricksburg, VA
 Freeport, NY
 Freestone Point, VA
@@ -531,6 +558,8 @@ Garland, TX
 Gary, IN
 Gary, IN
 Gastonia, NC
+Gatineau, QB
+Georgetown, ON
 Georgetown, TX
 Germantown, PA
 Germantown, TN
@@ -546,6 +575,7 @@ Glorieta Pass, NM
 Gloucester, MA
 Goodyear, AZ
 Goose Creek, SC
+Granby, QB
 Grand Forks, ND
 Grand Forks, ND
 Grand Haven, MI
@@ -555,6 +585,7 @@ Grand Marais, MN
 Grand Prairie, TX
 Grand Rapids, MI
 Grand Rapids, MI
+Grande Prairie, AB
 Grapevine, TX
 Great Falls, MT
 Greeley, CO
@@ -572,18 +603,21 @@ Greenwood, IN
 Gresham, OR
 Grove City, OH
 Guadalajara, MEX
+Guelph, ON
 Gulfport, MS
 Gwangju, SKO
 Gwinnett, GA
 Hackensack, NJ
 Hagerstown, MD
 Hainesville, VA
+Halifax, NS
 Hallandale Beach, FL
 Haltom City, TX
 Hamburg, DEU
 Hamden, CT
 Hamilton, NY
 Hamilton, OH
+Hamilton, ON
 Hamilton, ON
 Hammond, IN
 Hampton, VA
@@ -619,6 +653,7 @@ Hemet, CA
 Hempstead, NY
 Henderson, NV
 Hendersonville, TN
+Hermitage Bay, NF
 Hesperia, CA
 Hialeah, FA
 Hialeah, FL
@@ -663,6 +698,7 @@ Indianapolis, IN
 Indio, CA
 Inglewood, CA
 Inkster, MI
+Innisfil, ON
 Iowa City, IA
 Ipanema, BRA
 Irvine, CA
@@ -684,7 +720,9 @@ Johnson City, TN
 Joliet, IL
 Joliet, IL
 Joliet, IL
+Joliette, QB
 Jonesboro, AR
+Jonquière, QB
 Joplin, MO
 Juarez, MEX
 Juneau, AK
@@ -692,6 +730,8 @@ Jupiter, FL
 Jurupa Valley, CA
 Kalamazoo, MI
 Kalamazoo, MI
+Kamloops, BC
+Kanata, ON
 Kannapolis, NC
 Kannapolis, NC
 Kansas City, KS
@@ -701,6 +741,7 @@ Kansas City, MO
 Kearny, NJ
 Keizer, OR
 Keller, TX
+Kelowna, BC
 Kenner, LA
 Kennewick, WA
 Kenosha, WI
@@ -709,13 +750,16 @@ Kent, WA
 Kentwood, MI
 Kentwood, MI
 Kernstown, VA
+Keswick, ON
 Kettering, OH
 Killeen, TX
 Kingsport, TN
 Kingston, ON
+Kingston, ON
 Kinston, NC
 Kirkland, WA
 Kissimmee, FL
+Kitchener, ON
 Klamath Falls, OR
 Knoxville, TN
 Knoxville, TN
@@ -774,11 +818,14 @@ Lawrence, MA
 Lawton, OK
 Layton, UT
 League City, TX
+Leamington, ON
+Leduc, AB
 Lee's Summit, MO
 Leesburg, VA
 Lehi, UT
 Lenexa, KS
 Leominster, MA
+Lethbridge, AB
 Letterkenny, ON
 Lewisville, TX
 Lexington, MA
@@ -798,11 +845,14 @@ Livermore, CA
 Liverpool, ENG
 Livonia, MI
 Livonia, MI
+Lloydminster, AB
+Lloydminster, SK
 Lodi, CA
 Logan, UT
 Lombard, IL
 Lompoc, CA
 London, ENG
+London, ON
 Long Beach, CA
 Longmont, CO
 Longview, TX
@@ -859,6 +909,7 @@ McAllen, TX
 McKinney, TX
 Medford, MA
 Medford, OR
+Medicine Hat, AB
 Melbourne, FL
 Memphis, TN
 Memphis, TN
@@ -882,6 +933,7 @@ Middletown, CT
 Middletown, OH
 Midland, MI
 Midland, MI
+Midland, ON
 Midland, TX
 Midland, TX
 Midwest City, OK
@@ -890,6 +942,7 @@ Milan, ITY
 Milford, CT
 Mill Springs, KY
 Milpitas, CA
+Milton, ON
 Milwaukee, WI
 Milwaukee, WI
 Minneapolis, MN
@@ -899,6 +952,7 @@ Minot, ND
 Miramar, FL
 Mishawaka, IN
 Mission Viejo, CA
+Mission, BC
 Mission, TX
 Missoula, MT
 Missouri City, TX
@@ -907,6 +961,7 @@ Mobile, AL
 Modesto, CA
 Modesto, CA
 Moline, IL
+Moncton, NB
 Monmouth, NJ
 Monroe, LA
 Monrovia, CA
@@ -915,9 +970,11 @@ Montebello, CA
 Monterey Park, CA
 Montgomery, AL
 Montgomery, AL
+Montreal, QB
 Montreal, QU
 Moore, OK
 Moorhead, MN
+Moose Jaw, SK
 Moreno Valley, CA
 Morgan Hill, CA
 Moscow, RUS
@@ -938,6 +995,7 @@ Muskogee, OK
 Mussel Shoals, AL
 Myrtle Beach, SC
 Nampa, ID
+Nanaimo, BC
 Nantucket, RI
 Napa, CA
 Naperville, IL
@@ -966,18 +1024,21 @@ New Ulm, MN
 Newark, CA
 Newark, NJ
 Newark, OH
+Newcastle, ON
 Newport Beach, CA
 Newport News, VA
 Newport, VA
 Newton, MA
 Niagara Falls, NY
 Niagara Falls, NY
+Niagara Falls, ON
 Noblesville, IN
 Norfolk, VA
 Norfolk, VA
 Normal, IL
 Norman, OK
 North Andover, MA
+North Bay, ON
 North Charleston, SC
 North Las Vegas, NV
 North Lauderdale, FL
@@ -1008,6 +1069,7 @@ Odessa, TX
 Ogden, UT
 Oklahoma City, OK
 Oklahoma City, OK
+Okotoks, AB
 Olathe, KS
 Olympia, WA
 Omaha, NE
@@ -1016,7 +1078,9 @@ Ontanogan, MI
 Ontario, CA
 Oorai, JPN
 Orange, CA
+Orangeville, ON
 Orem, UT
+Orillia, ON
 Orland Park, IL
 Orlando, FL
 Orlando, FL
@@ -1025,7 +1089,9 @@ Ormond Beach, FL
 Oro Valley, AZ
 Orono, ME
 Osaka, JPN
+Oshawa, ON
 Oshkosh, WI
+Ottawa, ON
 Overland Park, KS
 Owatonna, MN
 Owensboro, KY
@@ -1046,6 +1112,7 @@ Paramount, CA
 Paris, FR
 Park Ridge, IL
 Parker, CO
+Parksville, BC
 Parma, OH
 Pasadena, CA
 Pasadena, TX
@@ -1060,16 +1127,19 @@ Peach Springs, AZ
 Peachtree Corners, GA
 Pearl, MS
 Pearland, TX
+Pelham, ON
 Pembina, ND
 Pembroke Pines, FL
 Pensacola, FL
 Pensacola, FL
+Penticton, BC
 Peoria, AZ
 Peoria, IL
 Peoria, IL
 Perris, CA
 Perth Amboy, NJ
 Petaluma, CA
+Peterborough, ON
 Petersburg, WV
 Pflugerville, TX
 Pharr, TX
@@ -1163,6 +1233,8 @@ Potsdam, NY
 Poway, CA
 Prescott Valley, AZ
 Prescott, AZ
+Prince Albert, SK
+Prince George, BC
 Princeton, NJ
 Promontory, UT
 Providence, RI
@@ -1171,6 +1243,7 @@ Provo, UT
 Pueblo, CO
 Puerto Plata, DR
 Puyallup, WA
+QB City, QB
 Qubec City, QU
 Queens, NY
 Queens, NY
@@ -1189,12 +1262,14 @@ Rapid City, SD
 Rapid City, SD
 Reading, PA
 Reading, PA
+Red Deer, AB
 Redding, CA
 Redford, MI
 Redlands, CA
 Redmond, WA
 Redondo Beach, CA
 Redwood City, CA
+Regina, SK
 Regina, SK
 Reims, FR
 Reno, NV
@@ -1209,6 +1284,7 @@ Richlands, NC
 Richmond, CA
 Richmond, VA
 Richmond, VA
+Rimouski, QB
 Rio Rancho, NM
 Riverside, CA
 Riverton, UT
@@ -1251,7 +1327,13 @@ Ruston, LA
 Sacramento, CA
 Sacremento, CA
 Saginaw, MI
+Saint John, NB
+Saint-Georges, QB
+Saint-Hyacinthe, QB
+Saint-Jean-sur-Richelieu, QB
+Saint-Jérôme, QB
 Saitama, JPN
+Salaberry-de-Valleyfield, QB
 Salem, MA
 Salem, MA
 Salem, OR
@@ -1311,8 +1393,11 @@ Sao Palo, BRA
 Sapporo, JPN
 Sarasota, FL
 Sarnia, ON
+Sarnia, ON
+Saskatoon, SK
 Saskatoon, SK
 Sault Ste. Marie, MI
+Sault Ste. Marie, ON
 Sault Ste. Marie, ON
 Savanah, GA
 Savannah, GA
@@ -1329,10 +1414,12 @@ Sebring, FA
 Sendai, JPN
 Seoul, SKO
 Shakopee, MN
+Shawinigan, QB
 Shawnee, KS
 Sheboygan, WI
 Shelton, CT
 Sherbrooke, NS
+Sherbrooke, QB
 Sherman, TX
 Shilo, TN
 Shiloh, TN
@@ -1349,6 +1436,7 @@ Skokie, IL
 Smyrna, GA
 Smyrna, TN
 Somerville, MA
+Sorel, QB
 South Beach, CA
 South Bend, IN
 South Bend, IN
@@ -1421,17 +1509,21 @@ Springfield, VT
 Springfield, WI
 Springfield, WV
 Springfield, WY
+Spruce Grove, AB
+St. Catharines,ON
 St. Charles, MO
 St. Clair Shores, MI
 St. Cloud, FL
 St. Cloud, MN
 St. George, UT
+St. John's, NL
 St. Joseph, MO
 St. Louis Park, MN
 St. Louis, MO
 St. Paul, MN
 St. Peters, MO
 St. Petersburg, FL
+St. Thomas, ON
 St.Charles, AR
 St.Clair, MI
 St.Cloud, MN
@@ -1454,8 +1546,11 @@ Stillwater, MN
 Stillwater, OK
 Stillwater, OK
 Stockton, CA
+Stouffville, ON
+Stratford, ON
 Streamwood, IL
 Strongsville, OH
+Sudbury, ON
 Suffolk, VA
 Sugar Land, TX
 Sugar Land, TX
@@ -1467,6 +1562,7 @@ Superior, WI
 Surprise, AZ
 Suwon, SKO
 Sweet Grass, MT
+Sydney, NS
 Syracuse, NY
 Syracuse, NY
 Tacoma, WA
@@ -1499,8 +1595,10 @@ Thornton, CO
 Thorp, WI
 Thousand Oaks, CA
 Thunder Bay, MI
+Thunder Bay, ON
 Tiajuana, MEX
 Tigard, OR
+Timmins, ON
 Tinley Park, IL
 Titusville, FL
 Tokyo, JPN
@@ -1513,6 +1611,7 @@ Tombstone, AZ
 Topeka, KA
 Topeka, KS
 Toronto, ON
+Toronto, ON
 Torrance, CA
 Tracy, CA
 Traverse City, MI
@@ -1520,6 +1619,7 @@ Trenton, NJ
 Trenton, NJ
 Trinidad, CO
 Trois-Rivieres, QC
+Trois-Rivières, QB
 Troy, MI
 Troy, NY
 Troy, NY
@@ -1548,11 +1648,15 @@ Vallejo, CA
 Valley Stream, NY
 Valverde, NM
 Vancouver, BC
+Vancouver, BC
 Vancouver, WA
 Venice, ITY
 Vera Cruz, MEX
+Vernon, BC
 Vicksburg, MS
+Victoria, BC
 Victoria, TX
+Victoriaville, QB
 Victorville, CA
 Vineland, NJ
 Virginia Beach, VA
@@ -1584,6 +1688,7 @@ Wausau, WI
 Wauwatosa, WI
 Waxhaw, SC
 Weed, CA
+Welland, ON
 Wellington, FL
 Wentzville, MO
 Weslaco, TX
@@ -1609,6 +1714,7 @@ Wheaton, IL
 Wheeling, IL
 White Bear Lake, MN
 White Plains, NY
+White Rock, BC
 Whittier, CA
 Wichita Falls, TX
 Wichita, KS
@@ -1625,6 +1731,8 @@ Wilson, NC
 Winchester, VA
 Windsor , ON
 Windsor, ON
+Windsor, ON
+Winnipeg, MB
 Winnipeg, MB
 Winston-Salem, NC
 Winston-Salem, VA
@@ -1637,6 +1745,7 @@ Wolf Creek Pass, CO
 Wood Lake, MN
 Woodbury, MN
 Woodland, CA
+Woodstock, ON
 Woonsocket, RI
 Worcester, MA
 Worchester, MA
