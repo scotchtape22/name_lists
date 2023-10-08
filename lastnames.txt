@@ -19,6 +19,7 @@ Almira
 Alsance
 Amargo
 Amaro
+Americano
 Anatole
 Anderson
 Andy-Thinks
@@ -36,18 +37,20 @@ Armin
 Aryed
 Ashes
 Asp
+Aspen
 Aspuddle
 Astrome
 Atencio
+Atlantica
 Badr
 Bahbah
 Bailey
 Baker
 Balaga
-Balraga
 Balkino
 Ballast
 Ballin
+Balraga
 Bambino
 Banchero
 Banderas
@@ -138,6 +141,7 @@ Camarda
 Campbell
 Canal
 Caniff
+Canoelovin
 Canon
 Canseco
 Capino
@@ -275,6 +279,7 @@ Ellewood
 Ellis
 Elly
 English
+Espresso
 Esquandolas
 Essen
 Essington
@@ -284,6 +289,7 @@ Everhart
 Excessenson
 Falcone
 Falk
+Fernie
 Finlandia
 Firefly
 Fishell
@@ -316,6 +322,7 @@ Fumata
 Fumbleton
 Fungus
 Funk
+Furenstein
 Galaxy
 Gallegos
 Galliano
@@ -434,12 +441,15 @@ Ice
 Ironstag
 Ishimira
 Island
+Jaca
 Jack
 Jackson
 Jacobson
 James
 Janeway
+Java
 Javert
+Javo
 Jebly
 Jellyroll
 Jenkins
@@ -458,6 +468,7 @@ Kaboom
 Kahlua
 Kamenka
 Kant-Party
+Karate
 Kartoue
 Karuga
 Kasoos
@@ -531,6 +542,7 @@ Lovelace
 Lowenzahn
 Lucrenem
 Lutsen
+Mabelgellion
 Mac
 MacInnis
 MacIntyre
@@ -544,6 +556,7 @@ ManMuscle
 Mann
 Manta
 Mantorino
+Mapelleon
 Maple
 Marashino
 Margarita
@@ -573,6 +586,8 @@ McLargeHuge
 McMan
 McQueen
 McRunfast
+McSkirmish
+McSmoochin
 McTravis
 Meatchunk
 Medrano
@@ -656,6 +671,9 @@ O'Hare
 O'Malley
 O'Mega
 O'Meyer
+Oaken
+Oakenheart
+Oakenhesrt
 Ock
 Oji
 Okafor
@@ -716,6 +734,7 @@ Pierpont
 Pimentel
 Pines
 Pingu
+Pinnington
 Piperpoint
 Pisces
 Plankchest
@@ -731,6 +750,7 @@ Pretzel
 Price
 Primm
 Pruit
+Pryzyiam
 Pucker
 Puckett
 Pugh
@@ -940,6 +960,7 @@ Toupee
 Toure
 Tredray
 Tree
+Trembly
 Troika
 Troubadour
 Trupkin
@@ -958,6 +979,7 @@ Umari
 Underbump
 Underhill
 Underhump
+Valentino
 Valjean
 Vamboldt
 Vanderhuge
@@ -1003,6 +1025,7 @@ Williams
 Willow
 Wilson
 Wiltson
+Winnington
 Winora
 Wolff
 Wolfman
@@ -1036,6 +1059,7 @@ Zeemer
 Zesty
 Zizzi
 Zodd
+Zucczucc
 Zuckerbot
 Zuniga
 Zurt
