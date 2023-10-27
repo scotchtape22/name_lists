@@ -81,6 +81,7 @@ Aventura, FL
 Avondale, AZ
 Azusa, CA
 Baia, BRA
+Baie-Comeau, QB
 Bakersfield, CA
 Baldwin Park, CA
 Baltimore, MD
@@ -93,6 +94,7 @@ Barrie, ON
 Barstow, CA
 Bartlett, IL
 Bartlett, TN
+Bathurst, NB
 Baton Rogue, LA
 Baton Rouge, LA
 Battle Creek, MI
@@ -149,6 +151,7 @@ Bloomington, IN
 Bloomington, MN
 Blue Springs, MO
 Boca Raton, FL
+Boisbriand, QB
 Boise City, ID
 Boise, ID
 Bolingbrook, IL
@@ -322,7 +325,7 @@ Clovis, NM
 Coachella, CA
 Cochrane, AB
 Coconut Creek, FL
-Coeur d'Alene, ID
+Coeur d\'Alene, ID
 College Park, MD
 College Station, TX
 College Station, TX
@@ -822,7 +825,7 @@ Layton, UT
 League City, TX
 Leamington, ON
 Leduc, AB
-Lee's Summit, MO
+Lee\'s Summit, MO
 Leesburg, VA
 Lehi, UT
 Lenexa, KS
@@ -956,6 +959,7 @@ Mishawaka, IN
 Mission Viejo, CA
 Mission, BC
 Mission, TX
+Mississauga, ON
 Missoula, MT
 Missouri City, TX
 Mobile, AL
@@ -1058,7 +1062,7 @@ Nottingham, ENG
 Novato, CA
 Novi, MI
 Novi, MI
-O'Fallon, MO
+O\'Fallon, MO
 Oak Hills, MO
 Oak Lawn, IL
 Oak Park, IL
@@ -1097,6 +1101,7 @@ Oshkosh, WI
 Ottawa, ON
 Overland Park, KS
 Owatonna, MN
+Owen Sound, ON
 Owensboro, KY
 Oxnard, CA
 Pacifica, CA
@@ -1248,6 +1253,7 @@ Puerto Plata, DR
 Puyallup, WA
 QB City, QB
 Qubec City, QU
+Quebec, QB
 Queens, NY
 Queens, NY
 Queens, NY
@@ -1322,14 +1328,16 @@ Roswell, NM
 Roswell, NM
 Round Rock, TX
 Round Rock, TX
-Rowlett's Station, KY
+Rouyn-Noranda, QB
 Rowlett, TX
+Rowlett\'s Station, KY
 Roy, UT
 Royal Oak, MI
 Ruston, LA
 Sacramento, CA
 Sacremento, CA
 Saginaw, MI
+Saguenay, QB
 Saint John, NB
 Saint-Georges, QB
 Saint-Hyacinthe, QB
@@ -1519,7 +1527,7 @@ St. Clair Shores, MI
 St. Cloud, FL
 St. Cloud, MN
 St. George, UT
-St. John's, NL
+St. John\'s, NL
 St. Joseph, MO
 St. Louis Park, MN
 St. Louis, MO
@@ -1565,6 +1573,7 @@ Superior, WI
 Surprise, AZ
 Suwon, SKO
 Sweet Grass, MT
+Swift Current, SK
 Sydney, NS
 Syracuse, NY
 Syracuse, NY
@@ -1646,6 +1655,7 @@ Utica, MI
 Utica, NY
 Utica, NY
 Vacaville, CA
+Val D\'or, QB
 Valdosta, GA
 Vallejo, CA
 Valley Stream, NY
@@ -1693,6 +1703,7 @@ Waxhaw, SC
 Weed, CA
 Welland, ON
 Wellington, FL
+Wenatchee, WA
 Wentzville, MO
 Weslaco, TX
 West Allis, WI
@@ -1732,7 +1743,6 @@ Wilmington, NC
 Wilmongton, DE
 Wilson, NC
 Winchester, VA
-Windsor , ON
 Windsor, ON
 Windsor, ON
 Winnipeg, MB
@@ -1745,6 +1755,7 @@ Wisconsin Rapids, WI
 Witchita, KS
 Woburn, MA
 Wolf Creek Pass, CO
+Wood Buffalo, AB
 Wood Lake, MN
 Woodbury, MN
 Woodland, CA
