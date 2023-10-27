@@ -247,7 +247,9 @@ Cary, NC
 Casa Grande, AZ
 Casper, WY
 Castle Rock, CO
+Castle Rock, ME
 Cathedral City, CA
+Catoosa, OK
 Cedar Falls, IA
 Cedar Falls, IA
 Cedar Hill, TX
@@ -1029,6 +1031,7 @@ Newport Beach, CA
 Newport News, VA
 Newport, VA
 Newton, MA
+Newyago, MI
 Niagara Falls, NY
 Niagara Falls, NY
 Niagara Falls, ON
