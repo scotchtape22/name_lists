@@ -167,6 +167,7 @@ Auld
 Aulie
 Aulin
 Aurie
+Aurifex
 Avery
 Awrey
 Axelsson
@@ -232,6 +233,7 @@ Bannister
 Barahona
 Baranka
 Barbe
+Barber
 Barber
 Barberio
 Barch
@@ -416,6 +418,7 @@ Biggs
 Bignell
 Bigras
 Biguy
+Bilan
 Billabong
 Billington
 Billins
@@ -504,6 +507,7 @@ Bonar
 Bond
 Bondi
 Bondra
+Bonekeeper
 Bonemeal
 Bonin
 Bonino
@@ -895,6 +899,7 @@ Chrysanthemum
 Chrystal
 Chubarov
 Chubbs
+Chucklethatch
 Chucko
 Chunkmen
 Church
@@ -1070,6 +1075,7 @@ Cracknell
 Craig
 Craighead
 Craigwell
+Crakenhopper
 Crampton
 Crapie
 crar
@@ -1121,6 +1127,7 @@ Curtale
 Curtis
 Cushenan
 Cusson
+Cutpurse
 Cutta
 Cutts
 Cynar
@@ -1252,6 +1259,7 @@ Departy
 Derby
 Derlago
 DeRouville
+Derta
 Desaulniers
 Desbiens
 Deschamps
@@ -1510,6 +1518,7 @@ Emmons
 Emms
 Endean
 Endicott
+Endicott
 Engblom
 Engele
 Engelland
@@ -1610,6 +1619,7 @@ Fiddler
 Fidler
 Field
 Fielder
+Fieldwarden
 Filatov
 Filewich
 Filimonov
@@ -1650,6 +1660,7 @@ Fleischmann
 Fleming
 Flesch
 Fletcher
+Fletchwind
 Flett
 Fleury
 Flexy
@@ -1675,6 +1686,7 @@ Fontas
 Fonteyne
 Fontinato
 Foote
+Footpad
 Forbes
 Forbort
 Ford
@@ -1693,6 +1705,7 @@ Foster
 Fotiu
 Fotzawitx
 Foucault
+Foundling
 Fountain
 Fowler
 Fox
@@ -1961,6 +1974,7 @@ Greening
 Greenlaw
 Greenlay
 Greentree
+Greenwise
 Gregg
 Greig
 Greiss
@@ -2085,6 +2099,7 @@ Handzus
 Hangsleben
 Hanifin
 Hankinson
+Hanley
 Hanley
 Hanlon
 Hanna
@@ -2237,6 +2252,7 @@ Hervey
 Heshka
 Hess
 Heward
+Hexe
 Heximer
 Hextall
 Heyliger
@@ -2540,6 +2556,7 @@ Jomphe
 Jonathan
 Jones
 Jonesy
+Jongluer
 Jonsson
 Jooris
 Jordan
@@ -2632,6 +2649,7 @@ Keczmer
 Keefe
 Keeling
 Keenan
+Keeshin
 Keetley
 Kehoe
 Keith
@@ -2661,6 +2679,7 @@ Kessel
 Kessell
 Ketola
 Ketter
+Kettlewright
 Khabibulin
 Khaira
 Kharin
@@ -3360,10 +3379,12 @@ Maracle
 Marashino
 Marcetta
 March
+March
 Marchand
 Marchant
 Marchenko
 Marchessault
+Marchguard
 Marchinko
 Marchment
 Marcinyshyn
@@ -3771,6 +3792,7 @@ Mulvey
 Mummery
 Muni
 Munro
+Murch
 Murdoch
 Murillo
 Murky
@@ -4362,6 +4384,7 @@ Prosser
 Proulx
 Prout
 Provost
+Prowler
 Prpic
 Prucha
 Pruit
@@ -4536,6 +4559,7 @@ Riendeau
 Riesen
 Riggin
 Riley
+Rill
 Rinaldo
 Ring
 Rinne
@@ -4728,6 +4752,7 @@ Sarno
 Saros
 Sarrazin
 Sasakamoose
+Sass
 Sasser
 Satan
 Sather
@@ -4794,6 +4819,7 @@ Scott
 Scoville
 Scremin
 Scrivens
+Scrivner
 Scruggs
 Scruton
 Scuderi
@@ -5213,6 +5239,7 @@ Sung
 Suomi
 Superb
 Surge
+Surgeon
 Surma
 Surovy
 Survivor
@@ -5361,6 +5388,7 @@ Thornbury
 Thornton
 Thorsteinson
 Thrash
+Thunderburter
 Thunderfist
 Thuresson
 Thurier
@@ -5690,6 +5718,7 @@ Wanvig
 Wappel
 Warburg
 Ward
+Warden
 Ware
 Wares
 Warner
@@ -5699,6 +5728,7 @@ Warsofsky
 Warwick
 Washburn
 Wasnie
+Wasserflash
 Wathier
 Watkins
 Watson
@@ -5882,6 +5912,7 @@ Yushkevich
 Yzerman
 Zaba
 Zabransky
+Zacceretto
 Zacha
 Zadorov
 Zaharko
@@ -5906,6 +5937,7 @@ Zehr
 Zesty
 Zizzi
 Zodd
+Zoob
 Zucczucc
 Zuckerbot
 Zuniga
