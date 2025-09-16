@@ -656,6 +656,7 @@ Jarret
 Jarrett
 Jarrod
 Jason
+Jasper
 Jassen
 Jay
 Jayden
@@ -838,6 +839,7 @@ Les
 Lester
 Leth
 Lew
+Lewis
 Lex
 Liam
 Libby
@@ -1498,6 +1500,7 @@ William
 Willie
 Willy
 Winston
+Wirt
 Wiz
 Wlibur
 Wojtek
@@ -1536,4 +1539,5 @@ Zemgus
 Zenith
 Zenon
 Zigmund
+Zo
 Zoey
