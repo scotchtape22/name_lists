@@ -1,0 +1,212 @@
+Brantford
+Kingston
+Oshawa
+Ottawa
+Peterborough
+Barrie
+Brampton
+Niagara OHL
+North Bay
+Sudbury
+Erie
+Guelph
+Kitchener
+London
+Owen Sound
+Flint
+Saginaw
+Sarnia
+Sault Ste. Marie
+Windsor
+Calgary
+Edmonton
+Lethbridge
+Medicine Hat
+Red Deer
+Brandon
+Moose Jaw
+Prince Albert
+Regina
+Saskatoon
+Swift Current
+Kamloops
+Kelowna
+Penticton
+Prince George
+Vancouver
+Victoria
+Everett
+Portland
+Seattle
+Spokane
+Kennewick WHL
+Wentchee
+Baie-Comeau
+Chicoutimi
+Quebec City
+Rimouski
+Cape Brenton
+Charlottetown
+Halifax
+Moncton
+St.Johns, NL
+Saint John, NB
+Boisbriad
+Gatineau
+Rouyn-Noranda
+Val-dOr
+Drummondville
+Shawinigan
+Sherbrooke
+Victoriaville
+Brantford
+Kingston
+Oshawa
+Ottawa
+Peterborough
+Barrie
+Brampton
+Niagara OHL
+North Bay
+Sudbury
+Erie
+Guelph
+Kitchener
+London
+Owen Sound
+Flint
+Saginaw
+Sarnia
+Sault Ste. Marie
+Windsor
+Calgary
+Edmonton
+Lethbridge
+Medicine Hat
+Red Deer
+Brandon
+Moose Jaw
+Prince Albert
+Regina
+Saskatoon
+Swift Current
+Kamloops
+Kelowna
+Penticton
+Prince George
+Vancouver
+Victoria
+Everett
+Portland
+Seattle
+Spokane
+Kennewick WHL
+Wentchee
+Baie-Comeau
+Chicoutimi
+Quebec City
+Rimouski
+Cape Brenton
+Charlottetown
+Halifax
+Moncton
+St.Johns, NL
+Saint John, NB
+Boisbriad
+Gatineau
+Rouyn-Noranda
+Val-dOr
+Drummondville
+Shawinigan
+Sherbrooke
+Victoriaville
+Air Force
+Army
+Bently
+Canisius
+Holy Cross
+Mercyhurst
+Niagara NCAA
+RIT
+Robert Morris
+Sacred Heart
+U Michigan
+Michigan State
+U Minnesota
+Notre Dame
+Ohio State
+Penn State
+U Wisconsin
+U Michigan
+Michigan State
+U Minnesota
+Notre Dame
+Ohio State
+Penn State
+U Wisconsin
+Augustana
+Bemidji State
+Bowling Green
+Ferris State
+Lake Superior State
+Michigan Tech
+Minnesota State
+Northern Michigan
+St. Thomas
+Brown
+Clarkson
+Colgate
+Cornell
+Dartmouth
+Harvard
+Princeton
+Quinnipiac
+RPI
+St. Lawrence
+Union
+Yale
+Boston College
+Boston University
+Connecticut
+Maine
+Lowell
+Massachusetts
+Merrimack
+New Hampshire
+Northeastern
+Providence
+Vermont
+Boston College
+Boston University
+Connecticut
+Maine
+Lowell
+Massachusetts
+Merrimack
+New Hampshire
+Northeastern
+Providence
+Vermont
+Arizona State
+Colorado College
+Denver
+Miami
+Minnesota Duluth
+Omaha
+North Dakota
+St. Cloud State
+Western Michigan
+Arizona State
+Colorado College
+Denver
+Miami
+Minnesota Duluth
+Omaha
+North Dakota
+St. Cloud State
+Western Michigan
+Alaska Anchorage
+Alaska
+Lindenwood
+Long Island
+Stonehill
